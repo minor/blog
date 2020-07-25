@@ -6,9 +6,9 @@ export default function Footer() {
     <footer className="bg-accent-1 border-t border-accent-2">
       <Container>
         <div className="py-28 flex flex-col lg:flex-row items-center">
-          <h4 className="text-2xl lg:text-5xl tracking-tighter leading-tight text-center lg:text-center mb-10 lg:mb-0 lg:pr-4 lg:w-1/2">
+          <h5 className="text-2xl lg:text-2xl tracking-tighter leading-tight text-center lg:text-center mb-10 lg:mb-0 lg:pr-4 lg:w-1/2">
             © Copyright 2020 - Saurish Srivastava
-          </h4>
+          </h5>
         </div>
       </Container>
     </footer>
