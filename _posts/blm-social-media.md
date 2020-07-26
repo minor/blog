@@ -1,15 +1,14 @@
 ---
 title: 'Black Lives Matter and Social Media'
-excerpt: 'The Black Lives Matter movement is a **hot** topic in America right now. Millions of Americans have taken the street to protest the death of George Floyd, Breonna Taylors (and many more), and the crystal clear institutionalized racism. America, a ‘free’ country fabricated off the backs of slaves on a land stolen from indigenous bodies, is now experiencing large protests in all fifty states.'
-coverImage: '/assets/blog/hello-world/cover.jpg'
+excerpt: 'The Black Lives Matter movement is a hot topic in America right now. Millions of Americans have taken the street to protest the death of George Floyd, Breonna Taylors (and many more), and the crystal clear institutionalized racism. America, a ‘free’ country fabricated off the backs of slaves on a land stolen from indigenous bodies, is now experiencing large protests in all fifty states.'
+coverImage: '/assets/blog/blm-social-media/cover.jpg'
 date: '2020-06-19'
 author:
   name: Saurish Srivastava
-  picture: '/assets/blog/authors/saurish.jpeg'
+  picture: '/assets/blog/authors/saurishsrivastava.jpg'
 ogImage:
-  url: '/assets/blog/hello-world/cover.jpg'
+  url: '/assets/blog/blm-social-media/cover.jpg'
 ---
-# Black Lives Matter and Social Media
 
 Happy Emancipation Day!
 
