@@ -4,7 +4,7 @@ excerpt: 'The Black Lives Matter movement is a **hot** topic in America right no
 coverImage: '/assets/blog/hello-world/cover.jpg'
 date: '2020-06-19'
 author:
-  name: Tim Neutkens
+  name: Saurish Srivastava
   picture: '/assets/blog/authors/saurish.jpeg'
 ogImage:
   url: '/assets/blog/hello-world/cover.jpg'
