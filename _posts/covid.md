@@ -1,8 +1,8 @@
 ---
-title: 'Black Lives Matter and Social Media'
-excerpt: 'The Black Lives Matter movement is a hot topic in America right now. Millions of Americans have taken the street to protest the death of George Floyd, Breonna Taylors (and many more), and the crystal clear institutionalized racism. America, a ‘free’ country fabricated off the backs of slaves on a land stolen from indigenous bodies, is now experiencing large protests in all fifty states.'
+title: 'Impact: COVID-19's Affect on Students'
+excerpt: '4.3 million cases and rising. 150 thousand deaths and rising. There’s only one word for it — it’s insane — in a matter of months, COVID-19 has become a rampant, uncontrollable global pandemic.'
 coverImage: '/assets/blog/blm-social-media/cover.jpg'
-date: '2020-06-19'
+date: '2020-07-26'
 author:
   name: Saurish Srivastava
   picture: '/assets/blog/authors/saurishsrivastava.jpg'
