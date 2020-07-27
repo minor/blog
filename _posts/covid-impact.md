@@ -1,13 +1,13 @@
 ---
-title: 'Impact: How COVID-19 Effects Students’
+title: 'Impact: COVID-19's Effect on Students'
 excerpt: '4.3 million cases and rising. 150 thousand deaths and rising. There’s only one word for it — it’s  insane — in a matter of months, COVID-19 has become a rampant, uncontrollable global pandemic.'
-coverImage: '/assets/blog/blm-social-media/cover.jpg'
-date: '2020-07-26'
+coverImage: '/assets/blog/covid/cover.jpg'
+date: '2020-06-19'
 author:
   name: Saurish Srivastava
   picture: '/assets/blog/authors/saurishsrivastava.jpg'
 ogImage:
-  url: '/assets/blog/blm-social-media/cover.jpg'
+  url: '/assets/blog/covid/cover.jpg'
 ---
 
 4.3 million cases and rising. 150 thousand deaths and rising. There’s only one word for it — it’s  **insane** — in a matter of months, COVID-19 has become a rampant, uncontrollable global pandemic. There are many articles that list out great articulations of theories as to *why* this madness occurred at this fatal rate, however, this blog post seeks to discuss the affects of the pandemic on **students**, particularly high school students.
