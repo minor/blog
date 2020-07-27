@@ -1,8 +1,8 @@
 ---
-title: 'Impact: COVID-19's Affect on Students'
-excerpt: '4.3 million cases and rising. 150 thousand deaths and rising. There’s only one word for it — it’s insane — in a matter of months, COVID-19 has become a rampant, uncontrollable global pandemic.'
+title: 'Black Lives Matter and Social Media'
+excerpt: 'Almost 4.3 million cases and rising. 150 thousand deaths and rising. There’s only one word for it — it’s insane — in a matter of months, COVID-19 has become a rampant, uncontrollable global pandemic. There are many articles that list out great articulations of theories as to *why* this madness occurred at this fatal rate, however, this blog post seeks to discuss the affects of the pandemic on students, particularly high school students.'
 coverImage: '/assets/blog/blm-social-media/cover.jpg'
-date: '2020-07-26'
+date: '2020-06-19'
 author:
   name: Saurish Srivastava
   picture: '/assets/blog/authors/saurishsrivastava.jpg'
@@ -10,7 +10,7 @@ ogImage:
   url: '/assets/blog/blm-social-media/cover.jpg'
 ---
 
-4.3 million cases and rising. 150 thousand deaths and rising. There’s only one word for it — it’s **insane** — in a matter of months, COVID-19 has become a rampant, uncontrollable global pandemic. There are many articles that list out great articulations of theories as to *why* this madness occurred at this fatal rate, however, this blog post seeks to discuss the affects of the pandemic on **students**, particularly high school students.
+Almost 4.3 million cases and rising. 150 thousand deaths and rising. There’s only one word for it — it’s **insane** — in a matter of months, COVID-19 has become a rampant, uncontrollable global pandemic. There are many articles that list out great articulations of theories as to *why* this madness occurred at this fatal rate, however, this blog post seeks to discuss the affects of the pandemic on **students**, particularly high school students.
 
 It goes without question that the high school years are drastically important for the education and future of a student. It’s some of the most crucial years in the early life. Unfortunately, with recent efforts to reduce the spread of the virus, students will face a difficult year that will take place both online and in person. There are two unique detriments — the first is that online school has empirically been terrible and that there is repeated uncertainty. To be fair, the online schooling that schools released were very rushed, but nonetheless learning is *decreased* with online school. It’s very difficult to accurately understand the teacher and learn to your best ability, which obviously have negative effects. Decreased learning leads to a less educated America which is a major concern. Although I am pointing this out, I admit, I don’t actually have a solution for this — I think this is something that America will just have to deal with and live through till restrictions are lifted. I also don’t think this is necessarily the student’s fault, rather just the environment they have forcibly been placed in. The second, more general, impact is this uncertainty. When will students return to school? How will school be when everyone is back? Will school be social distanced? When will restrictions be lifted? When will a vaccine be created? These questions have, and probably can not, be answered by officials or leaders. Uncertainty tears students apart and scares them of their future. It has effects your mind to a constant state of worry for the future, which is never good.
 
