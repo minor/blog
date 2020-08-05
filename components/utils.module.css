@@ -1,0 +1,45 @@
+.footercredits{
+    display: flex;
+    font-size:16px;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .listinline {
+    display: inline-block;
+    text-decoration: none;
+    justify-content: space-between;
+    margin: 10px 0;
+    width: 92%;
+  }
+  
+  .navbarref {
+    color: #808080;
+    font-size: 20px;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  #navbar {
+    background-color: white;
+    display: block;
+    justify-content: flex-end;
+    width: 110%;
+  }
+
+  .social {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+
+  .titlelogo{
+    height:30px;
+    width:30px;
+    margin: 0px 12px 0px 2px;
+    opacity: 0.4;
+    filter: alpha(opacity=40);
+    text-decoration:none;
+  }
