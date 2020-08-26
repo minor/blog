@@ -19,16 +19,16 @@ export default function Footer() {
         <br />
         <section className={utilStyles.social}>
           <a target="_blank" href="https://www.facebook.com/saurish.srivastava.10/">
-            <img className={utilStyles.titlelogo} src="/images/facebook.svg"></img>
+            <img className={utilStyles.titlelogo} src="/assets/images/facebook.svg"></img>
           </a>
           <a target="_blank" href="https://twitter.com/saurishhh">
-            <img className={utilStyles.titlelogo} src="/images/twitter.svg/"></img>
+            <img className={utilStyles.titlelogo} src="/assets/images/twitter.svg/"></img>
           </a>
           <a target="_blank" href="https://www.instagram.com/saurishhh/">
-            <img className={utilStyles.titlelogo} src="/images/insta.svg"></img>
+            <img className={utilStyles.titlelogo} src="/assets/images/insta.svg"></img>
           </a>
           <a target="_blank" href="https://github.com/saurishs/">
-            <img className={utilStyles.titlelogo} src="/images/github.svg"></img>
+            <img className={utilStyles.titlelogo} src="/assets/images/github.svg"></img>
           </a>
         </section>
         <section className={utilStyles.headingFooter}>
