@@ -18,6 +18,11 @@
   align-items: center;
 }
 
+.headingFooter {
+  font-size: 1.0rem;
+  line-height: 1.8;
+}
+
 .titlelogo{
   height:30px;
   width:30px;
