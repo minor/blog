@@ -32,6 +32,7 @@ export default function Footer() {
             <img className={utilStyles.titlelogo} src="/assets/images/github.svg"></img>
           </a>
         </section>
+        <br />
         <section className={utilStyles.headingFooter}>
           <p><center>&copy; Copyright 2020 - Saurish Srivastava</center></p>
         </section>
