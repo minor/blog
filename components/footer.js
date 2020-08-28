@@ -28,7 +28,7 @@ export default function Footer() {
           <a target="_blank" href="https://www.instagram.com/saurishhh/">
             <img className={utilStyles.titlelogo} src="/assets/images/insta.svg"></img>
           </a>
-          <a target="_blank" href="https://github.com/saurishs/">
+          <a target="_blank" href="https://github.com/minor/">
             <img className={utilStyles.titlelogo} src="/assets/images/github.svg"></img>
           </a>
         </section>
