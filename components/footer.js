@@ -10,11 +10,11 @@ export default function Footer() {
         <br />
         <section className={utilStyles.headingNavigation}>
           <div className={utilStyles.navigation}>
-            <Link href="/"><a>Home</a></Link>&nbsp;&nbsp;|&nbsp;&nbsp;
-            <Link href="/about"><a>About</a></Link>&nbsp;&nbsp;|&nbsp;&nbsp;
+            <a href="https://saurish.com">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+            <a href="https://saurish.com/about">About</a>&nbsp;&nbsp;|&nbsp;&nbsp;
             <a href="mailto:me@saurish.com?subject=Hello from the Website!">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-            <Link href="/projects"><a>Projects</a></Link>&nbsp;&nbsp;|&nbsp;&nbsp;
-            <a href="https://blog.saurish.com/">Blog</a>
+            <a href="https://saurish.com/projects">Projects</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+            <a href="/">Blog</a>
           </div>
         </section>
         <br />
