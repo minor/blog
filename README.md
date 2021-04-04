@@ -1,6 +1,6 @@
 ## My Old Next.js Statically Generated Blog
 
-[Home Page](/screenshots/homepage.jpg?raw=true "Home Page")
+![Home Page](/screenshots/homepage.jpg?raw=true "Home Page")
 
 Hey, there! This was a previous blog that I utilized to learn a little bit more about Next.js's static generation and also display blog posts! This is entirely taken from Next.js's static generation blog example. I've long moved away from using this and have integrated a blog into my current portfolio, available at: [https://saurish.com](https://saurish.com).
 
